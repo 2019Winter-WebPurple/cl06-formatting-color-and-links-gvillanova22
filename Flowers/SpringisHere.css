@@ -1,0 +1,47 @@
+/* Gia Villanova
+April 11, 2019 
+Small flower website */
+
+* {
+    
+    
+}
+body {
+    font-family: monospace
+    font-size: 87.5%; }
+h1 {
+    font-family: fantasy; 
+    font-size: 250%;
+    text-align: center;
+    text-decoration: underline overline;
+}
+
+header { background-color: navajowhite; 
+    font-family: fantasy; 
+    font-weight: 900;
+    font-size: 150%;
+    text-align: center}
+
+main { background-color: floralwhite; }
+
+footer { background-color: cadetblue; }
+
+#flowerpainting {width: 150px; height: 200px;
+    vertical-align: text-bottom;}
+img { float: left; }
+
+a:link {
+    background-color: cadetblue;
+    color: floralwhite;
+    text-decoration: none;}
+
+a:visited { 
+    color: navajowhite;}
+
+a:hover, a:focus {
+    background-color: floralwhite;
+    color: cadetblue;
+    text-decoration: none;}
+
+a:active {
+    color: darksalmon;}
