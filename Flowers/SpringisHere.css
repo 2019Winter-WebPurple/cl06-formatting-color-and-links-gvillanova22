@@ -15,6 +15,7 @@ h1 {
     text-align: center;
     text-decoration: underline overline;
 }
+/* This gives the heading more emphasis */
 
 header { background-color: navajowhite; 
     font-family: fantasy; 
@@ -25,6 +26,7 @@ header { background-color: navajowhite;
 main { background-color: floralwhite; }
 
 footer { background-color: cadetblue; }
+/* The different colors represent spring */
 
 #flowerpainting {width: 150px; height: 200px;
     vertical-align: text-bottom;}
@@ -45,3 +47,4 @@ a:hover, a:focus {
 
 a:active {
     color: darksalmon;}
+/* Adding this feature to the links makes the website more accessable and appealing */
